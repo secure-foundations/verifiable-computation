@@ -1,0 +1,1 @@
+This repository hosts code for the [Pinocchio](./pinocchio) and [Geppetto](./geppetto) Verifiable Computation systems.  It was previously hosted on (the now defunct) [Codeplex](http://vc.codeplex.com/).
